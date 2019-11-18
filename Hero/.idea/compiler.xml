@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AjcSettings">
+    <option name="ajcPath" value="C:/aspectj1.9/lib/aspectjtools.jar" />
+    <option name="delegateToJavac" value="true" />
+  </component>
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="ajc" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app" target="" />
+      <module name="Hero" target="" />
+      <module name="ritz" target="" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
